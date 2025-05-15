@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-beholder
+  x-cortex-tag: monster-beholder
+  x-cortex-custom-metadata:
+    alignment: neutral-evil
+    type: construct
+    challenge_rating: 4
+    legendary: false
+    armor_class: 10
+    hit_points: 196
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-beholder
+      alias: github-token-test
